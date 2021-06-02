@@ -11,7 +11,7 @@ Master JavaScript Step By Stey
 - [ ] https://github.com/developit/unfetch
 - [ ] https://github.com/developit/workerize
 - [ ] https://github.com/developit/mitt
-- [ ] https://github.com/mikehall314/es6-promisify (53 sloc)
+- [x] https://github.com/mikehall314/es6-promisify (53 sloc)
 
 ------------------
 ## 100 - 500 SLOC
