@@ -2,7 +2,6 @@
 Master JavaScript Step By Stey
 
 
-
 -----------------
 ## 10 - 50 SLOC
 
@@ -13,6 +12,7 @@ Master JavaScript Step By Stey
 - [x] https://github.com/developit/mitt (72 sloc)
 - [x] https://github.com/mikehall314/es6-promisify (53 sloc)
 - [ ] https://github.com/developit/unfetch (40 sloc)
+- [ ] https://github.com/lukeed/tinydate
 
 ------------------
 ## 100 - 500 SLOC
@@ -44,3 +44,5 @@ Master JavaScript Step By Stey
 - [ ] https://github.com/usablica/intro.js
 - [ ] https://github.com/popperjs/popper-core
 - [ ] https://github.com/jakesgordon/javascript-state-machine
+- [ ] https://github.com/jquense/yup
+- [ ] https://github.com/fmeringdal/nettu-meet
